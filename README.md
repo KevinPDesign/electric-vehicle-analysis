@@ -1,2 +1,2 @@
 # electric-vehicle-analysis
-Exploratory data analysis of electric vehicle specifications using Python and Jupyter Notebook. Focused on battery, range, and performance trends for 2025 models.
+Exploratory data analysis of electric vehicle specifications using Python and Jupyter Notebook. Focused on battery, range, and performance trends for 2025 models....
