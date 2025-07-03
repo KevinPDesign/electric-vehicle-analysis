@@ -15,10 +15,13 @@ This project performs an exploratory data analysis (EDA) on a dataset of electri
 
 ## 🧠 Key Insights
 
-- **Strong correlation** between battery size and driving range, but **efficiency varies** by brand.
-- **Dacia, Lancia, and Lucid** achieved over **6 km per kWh**, highlighting top energy efficiency.
-- Among the **top 10 most common brands**, **Volkswagen, Audi, and BMW** showed the best balance between range and efficiency.
-- **Mercedes-Benz**, despite having the highest number of models, ranked lowest in average efficiency.
+- There is a strong positive correlation between battery capacity and driving range, but efficiency (Wh/km) varies significantly between brands.
+- Dacia, Lancia, and Lucid stand out as the most energy-efficient brands, all exceeding 6 km per kWh.
+- Among the top 10 brands by number of models, Volkswagen, Audi, and BMW offer the best balance of range and efficiency, while Mercedes-Benz, despite having the most models, ranks lowest in energy efficiency.
+- Performance metrics such as top speed, acceleration, fast charging power, and battery size also vary notably across brands.
+- Audi and BMW consistently appear among the top 3 performers across multiple performance categories, showcasing well-rounded engineering.
+- Mercedes-Benz dominates in model count but lags behind in most performance averages, suggesting a broader but less optimized lineup.
+
 
 ---
 
